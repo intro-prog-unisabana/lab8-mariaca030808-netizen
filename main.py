@@ -10,7 +10,7 @@ if len(sys.argv) < 2:
     print("Insufficient arguments provided!")
     Hay_error = True
 
-if not Hay_error:
+if Hay_error == False:
     if sys.argv[1]== "--help":
         print("""Usage: python main.py <file_path> <command> [arguments]...
 
@@ -66,5 +66,5 @@ Examples:
                 print("Command not found!")
                 Hay_error= True
 
-        if not Hay_error:
+        if Hay_error == False:
             write_todo_file(file_path, Tareas)

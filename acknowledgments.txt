@@ -4,17 +4,17 @@ Lab 8
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
 Número de horas:
-
+2
 
 /****************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
 ¿Sí o no?
-
+no 
 
 /****************************************************************************
-* Escribe cualquier otro comentario aquí.
+* Escribe cualquier otro comentario aquí. 
 ******************************************************************************/
 
 
@@ -23,7 +23,7 @@ Número de horas:
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+https://github.com/intro-prog-unisabana/lab8-mariaca030808-netizen.git
 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,4 +34,5 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+Esta tarea de programación representa mi trabajo propio en acuerdo con lo estipulado en la Universidad 
+/Maria Camila Murcia/.
